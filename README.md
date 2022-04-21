@@ -41,3 +41,5 @@ https://cwiki.apache.org/confluence/display/AMBARI/How+to+Contribute
 ## License
 
 http://ambari.apache.org/license.html
+
+# Have no choice
